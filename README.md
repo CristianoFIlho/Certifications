@@ -16,6 +16,5 @@
 
 [JavaScript Complete Cetification](https://i.ibb.co/Qm4tdf4/image.png)  <img src="https://i.ibb.co/Qm4tdf4/image.png" width="1000" height="480"> 
 
-
-
+[SQL Complete Cetification](https://i.ibb.co/jVsHJwV/image.png)  <img src="https://i.ibb.co/jVsHJwV/image.png" width="1000" height="480"> 
 
